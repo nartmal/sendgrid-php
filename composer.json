@@ -1,5 +1,5 @@
 {
-    "name": "nartmal/sendgrid-php",
+    "name": "nartmal/sendgrid",
     "description": "This library allows you to quickly and easily send emails through SendGrid using PHP.",
     "homepage": "http://sendgrid.com",
     "license": "MIT",
